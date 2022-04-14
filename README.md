@@ -13,7 +13,7 @@ Votre rendu final devra comprendre :
 __Affichage des derniers films__:<br/>
 Un utilisateur peut voir les derniers films sur la page d'accueil.
 
-__Affichage dans des films dans l'ordre__:<br/>
+__Affichage des films dans l'ordre__:<br/>
 Un utilisateur peut afficher les films par leur ordre de sortie. 
 
 __Affichage d'un film sur une autre page__:<br/>
